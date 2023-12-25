@@ -3,9 +3,8 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayukhdevan&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukhdevan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-    
-  username&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Your GitHub Stats" height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Your Top Languages" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayukhdevan&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Your GitHub Stats" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukhdevan&layout=compact&theme=radical" alt="Your Top Languages" height="200"/>
 </div>
 
 
