@@ -2,7 +2,7 @@
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayukhdevan&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukhdevan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Hi there! 👋 I'm Mayukh Devan
