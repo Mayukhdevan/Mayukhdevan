@@ -26,9 +26,9 @@ Highlight your Angular skills with an e-commerce application.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/mayukhd/)
 - [Portfolio](https://your-portfolio.com)
-- [Twitter](https://twitter.com/your-twitter)
+- [Email](mayukhdevansahu121@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat! 😊
 
