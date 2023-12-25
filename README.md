@@ -44,10 +44,6 @@ I'm a passionate Full Stack Web Developer with expertise in a variety of technol
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![CCAvenue](https://img.shields.io/badge/-CCAvenue-2C3E50?style=flat-square&logo=credit-card&logoColor=white)
 
-## Projects
-
-# Feel free to checkout my github repos. It's open source.
-
 <!---
 ### [Project 1: Awesome React App](link-to-repo)
 A description of your awesome React project.
