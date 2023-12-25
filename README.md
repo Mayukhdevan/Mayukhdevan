@@ -1,3 +1,10 @@
+## GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayukhdevan&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Hi there! 👋 I'm Mayukh Devan
 
 I'm a passionate Full Stack Web Developer with expertise in a variety of technologies. My goal is to create awesome web applications that deliver a great user experience. Here are some of the technologies I work with:
