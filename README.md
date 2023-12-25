@@ -5,18 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayukhdevan&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
 
-## Achievements
-
-- Certified Web Developer 💻
-  ![Certified Web Developer Badge](https://img.shields.io/badge/-Certified_Web_Developer-4285F4?style=flat-square&logoColor=white)
-  
-- GitHub Arctic Code Vault Contributor 🌐
-  ![GitHub Arctic Code Vault Badge](https://img.shields.io/badge/-GitHub_Arctic_Code_Vault-2EA44F?style=flat-square&logo=github&logoColor=white)
-  
-- Open Source Contributor 🚀
-  ![Open Source Contributor Badge](https://img.shields.io/badge/-Open_Source_Contributor-00B16A?style=flat-square&logo=github&logoColor=white)
-
-
 # Hi there! 👋 I'm Mayukh Devan
 
 I'm a passionate Full Stack Web Developer with expertise in a variety of technologies. My goal is to create awesome web applications that deliver a great user experience. Here are some of the technologies I work with:
@@ -84,9 +72,9 @@ Highlight your Angular skills with an e-commerce application.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mayukhd/)
-- [Portfolio](https://your-portfolio.com)
-- [Email](mayukhdevansahu121@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayukhd/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=earth&logoColor=white)](https://www.linkedin.com/in/mayukhd/)
+- [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mayukhdevansahu121@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat! 😊
 
